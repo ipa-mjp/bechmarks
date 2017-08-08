@@ -1,0 +1,7 @@
+#start and goal position -> request definition
+geometry_msgs/PoseStamped start_pose
+geometry_msgs/PoseStamped goal_pose
+---
+#response information
+bool plan_success
+
